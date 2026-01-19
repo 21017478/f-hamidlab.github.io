@@ -1,5 +1,5 @@
 ---
 name: Martin Dunlop
 position: MSc Student 
-image: martin.png 
+image: Martin.png 
 ---
