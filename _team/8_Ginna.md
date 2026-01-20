@@ -1,5 +1,5 @@
 ---
 name: Ginna Al-Zubaidi
-position: Undergraduate Student
+position: Research Project Student
 image: Ginna.png
 ---
